@@ -1,2 +1,1 @@
-To read the index.html file, click: https://navyhoang.github.io/Web-Design-Challenge/
- 
+https://navyhoang.github.io/WebDesign-Challenge/.
