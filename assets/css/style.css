@@ -1,0 +1,65 @@
+#otis {
+    list-style-type: none;
+    }
+    
+.img{
+    float: left;
+    width: auto;
+    padding:0%
+}
+
+.img-border{ 
+  border:2px solid green;  
+}
+
+.small-font{
+  font-size:10px;
+}
+
+@media (max-width: 768px) 
+  {
+  .navbar li {
+    padding: 10px;
+    background-color: teal;
+  }
+
+  .post {
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+
+  .navbar ul {
+    visibility: visible;
+    background-color: teal;  }
+
+  #nav-select {
+    visibility: hidden;
+  }
+
+  .nav.navbar-expand-lg.navbar.navbar-light {
+    background-color: #444444;
+  }
+
+
+
+  #nv-change {
+    background-color: teal;
+  }
+}
+
+.box-shadow-hover:hover {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  border:2px solid teal;  
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
